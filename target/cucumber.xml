@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="61.907579">
+<testcase classname="Login Module" name="Login functionality exists" time="22.179886">
+<system-out><![CDATA[Given Go to eReg website....................................................passed
+When Login to eReg with "kamani00" and "Welcome1$"..........................passed
+Then Login successful.......................................................passed
+Then Go to DSQ Page.........................................................passed
+Then Search for Transaction "434279"........................................passed
+And Log out.................................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Module" name="Login functionality exists 2" time="19.804367">
+<system-out><![CDATA[Given Go to eReg website....................................................passed
+When Login to eReg with "kamani01" and "Welcome01$".........................passed
+Then Login successful.......................................................passed
+Then Go to DSQ Page.........................................................passed
+Then Search for Transaction "434274"........................................passed
+And Log out.................................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Module" name="Login functionality exists 3" time="19.923326">
+<system-out><![CDATA[Given Go to eReg website....................................................passed
+When Login to eReg with "kamani02" and "Welcome1$"..........................passed
+Then Login successful.......................................................passed
+Then Go to DSQ Page.........................................................passed
+Then Search for Transaction "434267"........................................passed
+And Log out.................................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

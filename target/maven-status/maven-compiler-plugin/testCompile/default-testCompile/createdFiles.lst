@@ -1,3 +1,2 @@
-loginRunnerDataTable\LoginRunner.class
-stepsDefinitions\LoginDataTable.class
-login\Login.class
+loginRunner\LoginRunner.class
+stepsDefinitions\LoginStep.class
