@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="61.907579">
-<testcase classname="Login Module" name="Login functionality exists" time="22.179886">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="62.952994">
+<testcase classname="Login Module" name="Login functionality exists" time="21.723415">
 <system-out><![CDATA[Given Go to eReg website....................................................passed
 When Login to eReg with "kamani00" and "Welcome1$"..........................passed
 Then Login successful.......................................................passed
@@ -8,7 +8,7 @@ Then Search for Transaction "434279"........................................pass
 And Log out.................................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Login Module" name="Login functionality exists 2" time="19.804367">
+<testcase classname="Login Module" name="Login functionality exists 2" time="21.156133">
 <system-out><![CDATA[Given Go to eReg website....................................................passed
 When Login to eReg with "kamani01" and "Welcome01$".........................passed
 Then Login successful.......................................................passed
@@ -17,7 +17,7 @@ Then Search for Transaction "434274"........................................pass
 And Log out.................................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Login Module" name="Login functionality exists 3" time="19.923326">
+<testcase classname="Login Module" name="Login functionality exists 3" time="20.073446">
 <system-out><![CDATA[Given Go to eReg website....................................................passed
 When Login to eReg with "kamani02" and "Welcome1$"..........................passed
 Then Login successful.......................................................passed

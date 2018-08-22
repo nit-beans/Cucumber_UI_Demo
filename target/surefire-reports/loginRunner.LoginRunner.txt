@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: loginRunner.LoginRunner
 -------------------------------------------------------------------------------
-Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.708 s - in loginRunner.LoginRunner
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.674 s - in loginRunner.LoginRunner

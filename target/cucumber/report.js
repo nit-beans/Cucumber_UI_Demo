@@ -102,7 +102,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 5472407510,
+  "duration": 5028992938,
   "status": "passed"
 });
 formatter.scenario({
@@ -160,7 +160,7 @@ formatter.match({
   "location": "LoginStep.goToeReg()"
 });
 formatter.result({
-  "duration": 2129255811,
+  "duration": 2522475135,
   "status": "passed"
 });
 formatter.match({
@@ -177,21 +177,21 @@ formatter.match({
   "location": "LoginStep.loginEreg(String,String)"
 });
 formatter.result({
-  "duration": 502638914,
+  "duration": 437508826,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.loginSuccessful()"
 });
 formatter.result({
-  "duration": 4025943217,
+  "duration": 4047736439,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.goToDSQOPage()"
 });
 formatter.result({
-  "duration": 211284161,
+  "duration": 208157789,
   "status": "passed"
 });
 formatter.match({
@@ -204,22 +204,22 @@ formatter.match({
   "location": "LoginStep.searchTranID(String)"
 });
 formatter.result({
-  "duration": 5240825724,
+  "duration": 4921599448,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.logOut()"
 });
 formatter.result({
-  "duration": 2331633589,
+  "duration": 2340305115,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2265897483,
+  "duration": 2216639771,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4140887949,
+  "duration": 4278522661,
   "status": "passed"
 });
 formatter.scenario({
@@ -277,7 +277,7 @@ formatter.match({
   "location": "LoginStep.goToeReg()"
 });
 formatter.result({
-  "duration": 1349540748,
+  "duration": 2737099378,
   "status": "passed"
 });
 formatter.match({
@@ -294,21 +294,21 @@ formatter.match({
   "location": "LoginStep.loginEreg(String,String)"
 });
 formatter.result({
-  "duration": 505150206,
+  "duration": 419843319,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.loginSuccessful()"
 });
 formatter.result({
-  "duration": 4017007760,
+  "duration": 4040125160,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.goToDSQOPage()"
 });
 formatter.result({
-  "duration": 134561579,
+  "duration": 248804012,
   "status": "passed"
 });
 formatter.match({
@@ -321,22 +321,22 @@ formatter.match({
   "location": "LoginStep.searchTranID(String)"
 });
 formatter.result({
-  "duration": 5193884848,
+  "duration": 4940324826,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.logOut()"
 });
 formatter.result({
-  "duration": 2219406307,
+  "duration": 2287116028,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2243927553,
+  "duration": 2204297401,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4095816478,
+  "duration": 4419397018,
   "status": "passed"
 });
 formatter.scenario({
@@ -394,7 +394,7 @@ formatter.match({
   "location": "LoginStep.goToeReg()"
 });
 formatter.result({
-  "duration": 1510997048,
+  "duration": 1305732284,
   "status": "passed"
 });
 formatter.match({
@@ -411,21 +411,21 @@ formatter.match({
   "location": "LoginStep.loginEreg(String,String)"
 });
 formatter.result({
-  "duration": 499440048,
+  "duration": 488156038,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.loginSuccessful()"
 });
 formatter.result({
-  "duration": 4022261423,
+  "duration": 4053472651,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.goToDSQOPage()"
 });
 formatter.result({
-  "duration": 149584019,
+  "duration": 335483783,
   "status": "passed"
 });
 formatter.match({
@@ -438,18 +438,18 @@ formatter.match({
   "location": "LoginStep.searchTranID(String)"
 });
 formatter.result({
-  "duration": 5220071982,
+  "duration": 4954490533,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.logOut()"
 });
 formatter.result({
-  "duration": 2175420758,
+  "duration": 2300513737,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2249733994,
+  "duration": 2216199511,
   "status": "passed"
 });
 });
